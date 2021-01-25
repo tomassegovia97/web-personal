@@ -1,0 +1,11 @@
+private/
+*.class
+*.zip
+*.‬gzip
+*.bzip2
+*.tar
+*.rar
+*.7z
+*.xz
+*.log
+public.log
